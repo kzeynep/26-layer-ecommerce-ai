@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🛍️ E-Commerce AI Suite
@@ -27,6 +28,14 @@
 **E-Commerce AI Suite** is an intelligent platform powered by Google Gemini AI, designed specifically for the Turkish e-commerce ecosystem. It brings together three powerful AI modules — **Product Assistant**, **Review Analyzer**, and **Description Generator** — into a sleek, mobile-first interface.
 
 Whether you're a buyer looking for the perfect product, a seller wanting to improve your listing, or a brand owner aiming to understand customer sentiment, this suite has you covered.
+
+### 🎬 Demo Video
+
+> Watch the full walkthrough of E-Commerce AI Suite on YouTube:
+
+[![YouTube Demo](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=LRdQs82tMMU)
+
+[![E-Commerce AI Suite Demo](https://img.youtube.com/vi/LRdQs82tMMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LRdQs82tMMU)
 
 ### ✨ Features
 
@@ -73,7 +82,7 @@ Whether you're a buyer looking for the perfect product, a seller wanting to impr
 
 ```bash
 # Clone the repo
-git clone https://github.com/26-layer/26-layer-ecommerce-ai.git
+git clone https://github.com/kzeynep/26-layer-ecommerce-ai.git
 cd 26-layer-ecommerce-ai
 
 # Install dependencies
@@ -192,6 +201,14 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 Mükemmel ürünü arayan bir alıcı, listesini geliştirmek isteyen bir satıcı veya müşteri yorumlarını anlamak isteyen bir marka sahibi olsanız da bu platform ihtiyacınızı karşılar.
 
+### 🎬 Demo Videosu
+
+> E-Commerce AI Suite'in tüm özelliklerini YouTube'da izleyin:
+
+[![YouTube Demo](https://img.shields.io/badge/▶_Demo_İzle-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=LRdQs82tMMU)
+
+[![E-Commerce AI Suite Demo](https://img.youtube.com/vi/LRdQs82tMMU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LRdQs82tMMU)
+
 ### ✨ Özellikler
 
 #### 🛒 Ürün Asistanı
@@ -237,7 +254,7 @@ Mükemmel ürünü arayan bir alıcı, listesini geliştirmek isteyen bir satıc
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/26-layer/26-layer-ecommerce-ai.git
+git clone https://github.com/kzeynep/26-layer-ecommerce-ai.git
 cd 26-layer-ecommerce-ai
 
 # Bağımlılıkları yükle
@@ -347,8 +364,4 @@ MIT Lisansı. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
 
-<div align="center">
-
 Powered by **Gemini AI** · Built with ❤️ by **26.Layer** · **BTK Hackathon '26**
-
-</div>
